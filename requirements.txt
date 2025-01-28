@@ -1,0 +1,10 @@
+crewai
+crewai_tools
+crewai[tools]
+crewai-tools
+load_dotenv
+langchain-huggingface
+langchain-google-genai
+langchain_google_genai
+google-cloud-aiplatform
+langchain_google_vertexai
